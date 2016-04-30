@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dionysihalicarn06diongoog_0007.png"; bbox 0 0 2662 3920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 61 1283 1317 1687">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 61 1259 1317 1687">
+     <span class='ocr_line' id='line_1_1' title="bbox 61 1283 1317 1454; baseline 0.004 -21"><span class='ocrx_word' id='word_1_1' title='bbox 61 1283 63 1287; x_wconf 66' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 130 1334 539 1436; x_wconf 68' lang='lat' dir='ltr'><strong>PHILOLOGIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 567 1336 796 1454; x_wconf 77' lang='lat' dir='ltr'><strong>ATQUE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 825 1335 1200 1438; x_wconf 61' lang='lat' dir='ltr'>MAfflswffls</span> <span class='ocrx_word' id='word_1_5' title='bbox 1316 1411 1317 1414; x_wconf 20' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 459 1586 879 1687; baseline 0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 459 1586 879 1687; x_wconf 75' lang='lat' dir='ltr'><strong>GERMANIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 196 1909 1140 1994">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 196 1909 1140 1994">
+     <span class='ocr_line' id='line_1_3' title="bbox 196 1909 1140 1994; baseline 0.005 -13"><span class='ocrx_word' id='word_1_7' title='bbox 196 1909 447 1994; x_wconf 73' lang='lat' dir='ltr'>QUOTQUOT</span> <span class='ocrx_word' id='word_1_8' title='bbox 476 1911 788 1985; x_wconf 80' lang='lat' dir='ltr'><strong>HAMMONIAM</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 816 1911 1140 1986; x_wconf 77' lang='lat' dir='ltr'>OONVENIENT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 342 2229 996 2298">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 342 2229 996 2298">
+     <span class='ocr_line' id='line_1_4' title="bbox 342 2229 996 2298; baseline 0 -2"><span class='ocrx_word' id='word_1_10' title='bbox 342 2229 494 2298; x_wconf 79' lang='lat' dir='ltr'>MENSE</span> <span class='ocrx_word' id='word_1_11' title='bbox 519 2229 708 2296; x_wconf 80' lang='lat' dir='ltr'>OOTOBRI</span> <span class='ocrx_word' id='word_1_12' title='bbox 731 2229 843 2298; x_wconf 81' lang='lat' dir='ltr'>ANNI</span> <span class='ocrx_word' id='word_1_13' title='bbox 865 2229 996 2297; x_wconf 81' lang='lat' dir='ltr'>MGMV</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1336 3920">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1336 3920">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1336 3920; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1336 3920; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
